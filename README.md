@@ -6,6 +6,10 @@
 # No optimization and picture size processing
 未进行优化和图片大小处理
 
+# 使用方法
+```rust
+cargo run -- https://github.com/dtolnay/anyhow -o ./anyhow.jpg
+
 具体实现是观看了喜欢历史的程序员的培训视频
 The specific implementation is to watch the training video of programmers who like history
 
